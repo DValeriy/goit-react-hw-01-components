@@ -1,0 +1,18 @@
+.transaction_history {
+  margin: 0 auto;
+  width: 500px;
+  border-radius: 5px;
+  overflow: hidden;
+}
+.head {
+  padding-top: 10px;
+  background-color: rgb(55, 143, 170);
+}
+.cell {
+  text-align: center;
+  padding: 5px 10px;
+  border: 1px solid rgb(206, 200, 200);
+}
+.row:nth-child(2n) {
+  background-color: rgb(202, 211, 214);
+}
