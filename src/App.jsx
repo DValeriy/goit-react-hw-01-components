@@ -1,4 +1,3 @@
-// import "./App.css";
 import Profile from "./components/Profile";
 import Statistics from "./components/Statistics";
 import FriendList from "./components/FriendList";

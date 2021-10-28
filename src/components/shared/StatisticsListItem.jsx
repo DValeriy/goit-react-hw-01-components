@@ -1,4 +1,4 @@
-import { randomColor } from "../../function";
+import { randomColor } from "../../utils/function";
 import s from "../Statistics/Statistics.module.css";
 import PropTypes from "prop-types";
 const StatisticsListItem = ({ label, percentage }) => {
